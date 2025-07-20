@@ -18,7 +18,7 @@ export const HeroSection = () => {
       <div className="container mx-auto text-center relative z-10">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-800 mb-6 leading-tight">
-            <span className="text-green-600">EcoLoop</span> AI
+            <span className="text-green-600">EcoLoop</span>
           </h1>
           <div className="text-xl md:text-2xl text-gray-700 mb-4 font-medium">
             Turning Waste Into Worth
